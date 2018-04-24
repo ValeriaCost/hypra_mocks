@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "123",
+    "index": 0,
+    "guid": "57aca49b-ecb4-4bae-813a-64a61b453ba1",
+    "isActive": true,
+    "balance": "$3,477.77",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Gregory Lambert",
+    "gender": "male",
+    "company": "ENERVATE",
+    "email": "gregorylambert@enervate.com",
+    "phone": "+1 (914) 443-2940",
+    "address": "449 Livingston Street, Sultana, New York, 6800",
+    "about": "Consectetur enim duis amet ad anim duis culpa consectetur occaecat. Culpa consectetur dolor labore voluptate non dolore. Dolore est in eu officia duis velit minim amet.\r\n",
+    "registered": "2018-03-18T01:27:37 -01:00",
+    "latitude": -6.73066,
+    "longitude": 144.06833,
+    "tags": [
+      "magna",
+      "id",
+      "tempor",
+      "anim",
+      "non",
+      "eu",
+      "tempor"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bonita Snow"
+      },
+      {
+        "id": 1,
+        "name": "Patricia Higgins"
+      },
+      {
+        "id": 2,
+        "name": "Stella Nash"
+      }
+    ],
+    "greeting": "Hello, Gregory Lambert! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
